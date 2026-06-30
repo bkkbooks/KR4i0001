@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR4i0001/WYG/v1/juan/9
+seq: 9
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 文心雕龍
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-09-11 23:17:33.225729'
+  source:
+    repository: kanripo
+    path: KR4i0001/KR4i0001_009.txt
+hash: sha256:561f8800f1ea607c3213674b97481f4ead35146f03b3a5be476717a092b19b47

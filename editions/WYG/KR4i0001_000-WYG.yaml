@@ -1,0 +1,20 @@
+canonical_identifier: bkk:krp/KR4i0001/WYG/v1/juan/0
+seq: 0
+front:
+  text: 欽定四庫全書集部九
+  hash: sha256:2915ca2c42004a91a126dfeea4ee146e90e0888298fa16b14df859e534a1c6b4
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4i0001_WYG_000-1a, image: WYG1478/WYG1478-0001a.png}
+body:
+  text: 文心雕龍目録詩文評類巻一原道第一徴聖第二宗經第三正緯第四辯騷第五巻二明詩第六樂府第七詮賦第八頌讃第九祝盟第十巻三銘箴第十一誄碑第十二哀弔第十三雜文第十四諧讔第十五巻四史傳第十六諸子第十七論說第十八詔策第十九檄移第二十巻五封禪第二十一章表第二十二奏啓第二十三議對第二十四書記第二十五巻六神思第二十六體性第二十七風骨第二十八通變第二十九定勢第三十巻七情采第三十一鎔裁第三十二聲律第三十三章句第三十四麗辭第三十五巻八比興第三十六夸飾第三十七事類第三十八練字第三十九隱秀第四十巻九指瑕第四十一養氣第四十二附㑹第四十三總術第四十四時序第四十五巻十物色第四十六才略第四十七知音第四十八程器第四十九序志第五十臣等謹案文心雕龍十巻梁劉
+  hash: sha256:ade5ad35ec82b72483e50eeb1b10124f9b3d37b6cd2671d3957d48ba69990b70
+metadata:
+  title: 文心雕龍
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-09-11 23:17:33.225729'
+  source:
+    repository: kanripo
+    path: KR4i0001/KR4i0001_000.txt
+hash: sha256:8e0db3802524f4363d410183a3e657bd26ac09861ced09563ff794d9b950b062
