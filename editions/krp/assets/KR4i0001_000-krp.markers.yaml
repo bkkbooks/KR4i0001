@@ -395,6 +395,7 @@ markers:
   - {type: variant, offset: 742, length: 0, content: '', WYG: 臣等謹案}
   - {type: variant, offset: 746, length: 3, content: 目錄畢, WYG: 十巻梁劉}
   - {type: punctuation, offset: 748, content: (, id: KR4i0001_krp_000-bkkpn1}
+  - {type: voice, offset: 748, length: 1, name: note, id: n1}
   - {type: punctuation, offset: 749, content: ), id: KR4i0001_krp_000-bkkpn2}
   - {type: 'kr:newline', offset: 749, content: '
 
@@ -404,4 +405,4 @@ markers:
 
       ', id: KR4i0001_krp_000-bkkkrnewl72}
   back: []
-hash: sha256:937a9ef6a401183bd3698646aa268d20e77b5fa84e5519e8fa6e4972fc665757
+hash: sha256:2d05b00c71e89adaa4486cafede936b6534413d832ff07321887636c92c2d929
